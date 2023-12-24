@@ -21,9 +21,22 @@
 ## 마커를 인식하고 해당되는 마커에 연결된 행성과 그에 대한 설명이 프리팹으로 생성된다. 
 
 # < Face Maker >
-<img src="https://github.com/ub0329/AR/assets/112606772/9674bee6-adbd-42b2-b17a-87ab69fbc7df" width="15%">
+<img src="https://github.com/ub0329/AR/assets/112606772/745269a1-bec2-40f4-b513-d4b853ab5303" width="15%">
 
-## 얼굴을 인식하여 마스크와 악세사를 바꿔 쓸 수 있다.
+
+
+## 얼굴을 인식하여 마스크와 악세사리를 바꿔 쓸 수 있다.
+
+# < maker ball>
+<img src="https://github.com/ub0329/AR/assets/112606772/a86c084c-7b4b-4491-8e12-aefaaab72fbd" width="15%">
+<img src="https://github.com/ub0329/AR/assets/112606772/ab913a6c-1f22-4719-807f-4dde7ab6b385" width="15%">
+
+## 마커를 인식하여 해당 프리팹이 등장하고 볼을 던지면 프리팹을 잡을 수 있다.
+
+
+
+
+
 
 
 
